@@ -1,0 +1,5 @@
+# Hasil compile Java
+*.class
+
+# File sementara VS Code Code Runner
+tempCodeRunnerFile.java
